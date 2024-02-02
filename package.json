@@ -17,7 +17,7 @@
       "prettier --write ."
     ]
   },
-  "author": "Arun <720721110060@hicet.ac.in>",
+  "author": " r",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
